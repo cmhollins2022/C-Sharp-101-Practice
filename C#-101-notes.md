@@ -48,8 +48,9 @@ The first part is the __for initializer__: ```int counter = 0;``` declares that 
 The middle part is the __for condition__: ```counter < 10``` declares that this for loop continues to execute as long as the value of ```counter``` is less than 10.
 
 The final part is the for iterator: ```counter++``` specifies how to modify the loop variable after executing the block following the for statement. Here, it specifies that ```counter``` should be incremented by 1 each time the block executes.
-
-```for(int counter = 0; counter < 10; counter++)
+```
+for(int counter = 0; counter < 10; counter++)
 {
   Console.WriteLine($"Hello World! The counter is {counter}");
-}```
+}
+```
