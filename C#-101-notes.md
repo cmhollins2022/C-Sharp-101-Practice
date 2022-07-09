@@ -49,7 +49,7 @@ The middle part is the __for condition__: ```counter < 10``` declares that this 
 
 The final part is the for iterator: ```counter++``` specifies how to modify the loop variable after executing the block following the for statement. Here, it specifies that ```counter``` should be incremented by 1 each time the block executes.
 
-```for(int counter = 0; counter < 10; counter++)```
-```{
+```for(int counter = 0; counter < 10; counter++)
+{
   Console.WriteLine($"Hello World! The counter is {counter}");
 }```
