@@ -40,4 +40,4 @@ The ```decimal``` type has a smaller range but greater precision than ```double`
 ```using``` includes any libraries you use, including "System", for the console log. ```namespace```'s are used to group and organize code. Group multuple different classes together to keep everything organized. ```Class``` declared a class, and ```static void Main(string[] args)``` is your first (or main) method.
 
 ### What are loops?
-Loops help us to repeat statements. ```while``` something is ```true```, it will repeat.
+Loops help us to repeat statements. ```while``` something is ```true```, it will repeat. You can also ```do``` something first, then check the conditional after using ```while```.
