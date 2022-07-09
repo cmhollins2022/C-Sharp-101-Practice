@@ -5,4 +5,8 @@
 - Easy to learn more complex things later.
 ### Hello World
 What is a __console__? Whatever is in the quotations will return to the console.
-```
+```string aFriend = "Tyler";
+Console.WriteLine($"Hello  + {aFriend}");```
+
+
+
