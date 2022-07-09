@@ -26,6 +26,6 @@ The ```contains``` method returns a boolean value, showing if the sub-string is 
 An ```int``` type represents an integer. All basic operations are represented through ```+ - * /```. Integer division always produces an integer result.
 
 #### Numbers and Integer Precision
-If integer division truncates the result, use the ```%``` to produce the remainder.
+If integer division truncates the result, use the ```%``` to produce the remainder. ```MaxValue``` and ```MinValue``` show the limits of integers. If you go above the maximum, or below the minimum, you will __overflow__ or __underflow__.
 
  
