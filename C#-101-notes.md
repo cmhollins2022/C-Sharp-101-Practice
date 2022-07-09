@@ -82,4 +82,12 @@ foreach (var name in names)
 Arrays are usually '0' based, starting at the ```[0]```'th position.
 
 ### Sort, Search, and Index Lists
-The ```IndexOf``` method searches for the given parameter value and returns the index. The ```Sort``` method sorts the items within a list normally. Each character of a string (or ```char```) have numerical values. So, when they are sorted, the computer knows to sort them alphabetically. 
+The ```IndexOf``` method searches for the given parameter value and returns the index. The ```Sort``` method sorts the items within a list normally. Each character of a string (or ```char```) have numerical values. So, when they are sorted, the computer knows to sort them alphabetically.
+```
+var index = names.IndexOf("Felipe");
+if (index != -1)
+  Console.WriteLine($"The name {names[index]} is at index {index}");
+
+var notFound = names.IndexOf("Not Found");
+Console.WriteLine($"When an item is not found, IndexOf returns {notFound}");
+```
