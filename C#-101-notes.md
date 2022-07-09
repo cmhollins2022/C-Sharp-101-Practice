@@ -31,4 +31,4 @@ If integer division truncates the result, use the ```%``` to produce the remaind
 A ```Double``` numeric type represents a double-precision floating point number. Double precision numbers have twice the number of binary digits as single-precision.
 
 ### Numbers and Decimals
-The ```decimal``` type has a smaller range but greater precision than "double".
+The ```decimal``` type has a smaller range but greater precision than ```double```.
