@@ -54,7 +54,6 @@ for(int counter = 0; counter < 10; counter++)
   Console.WriteLine($"Hello World! The counter is {counter}");
 }
 ```
-
 ### Combining Branches and Loops
 Proper __scoping__ allows for variables to be declared and assigned in the correct order.
 ```
