@@ -16,4 +16,4 @@ The ```Length``` property shows how long the string is.
 
 The ```Trim```, ```TrimStart``` and ```TrimEnd``` methods remove leading and trailing spaces. (Better Formatting)
 
-The ```Replace``` methof searches for a substring (or first parameter) and replaces is it with a second parameter.
+The ```Replace``` method searches for a substring (or first parameter) and replaces is it with a second parameter.
