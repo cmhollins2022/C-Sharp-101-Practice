@@ -69,3 +69,5 @@ for(int i = 1; i <= 20; i++)
 }
 Console.WriteLine($"The sum is {sum}");
 ```
+### Arrays, List, and Collections
+```var``` is used when you are not sure what your variable will be.
