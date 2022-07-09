@@ -40,4 +40,11 @@ The ```decimal``` type has a smaller range but greater precision than ```double`
 ```using``` includes any libraries you use, including "System", for the console log. ```namespace```'s are used to group and organize code. Group multuple different classes together to keep everything organized. ```Class``` declared a class, and ```static void Main(string[] args)``` is your first (or main) method.
 
 ### What are loops?
-Loops help us to repeat statements. ```while``` something is ```true```, it will repeat. You can also ```do``` something first, then check the conditional after using ```while```.
+Loops help us to repeat statements. ```while``` something is ```true```, it will repeat. You can also ```do``` something first, then check the conditional after using ```while```. Incriment using some variable```++```.
+
+You can use a ```for``` loop in oder to make varient types of conditional statements:
+The first part is the __for initializer__: ```int counter = 0;``` declares that ```counter``` is the loop variable, and sets its initial value to ```0```.
+
+The middle part is the __for condition__: ```counter < 10``` declares that this for loop continues to execute as long as the value of ```counter``` is less than 10.
+
+The final part is the for iterator: ```counter++``` specifies how to modify the loop variable after executing the block following the for statement. Here, it specifies that ```counter``` should be incremented by 1 each time the block executes.
