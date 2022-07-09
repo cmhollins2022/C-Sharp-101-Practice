@@ -21,3 +21,6 @@ The ```Replace``` method searches for a substring (or first parameter) and repla
 What is a __Boolean__ value? Returns a __True__ or __False__.
 
 The ```contains``` method returns a boolean value, showing if the sub-string is within a string. ```StartsWith``` and ```EndsWith``` returns a boolean depending on the posistion of the string within the given parameter.
+
+### Numbers and Integer Math
+An ```int``` type represents an integer.
