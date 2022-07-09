@@ -29,3 +29,6 @@ An ```int``` type represents an integer. All basic operations are represented th
 If integer division truncates the result, use the ```%``` to produce the remainder. ```MaxValue``` and ```MinValue``` show the limits of integers. If you go above the maximum, or below the minimum, you will __overflow__ or __underflow__.
 
 A ```Double``` numeric type represents a double-precision floating point number. Double precision numbers have twice the number of binary digits as single-precision.
+
+### Numbers and Decimals
+The ```decimal``` type has a smaller range but greater precision than "double".
