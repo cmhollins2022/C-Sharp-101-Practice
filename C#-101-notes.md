@@ -54,6 +54,7 @@ for(int counter = 0; counter < 10; counter++)
   Console.WriteLine($"Hello World! The counter is {counter}");
 }
 ```
+
 ### Combining Branches and Loops
 Proper __scoping__ allows for variables to be declared and assigned in the correct order.
 ```
@@ -68,6 +69,7 @@ for(int i = 1; i <= 20; i++)
 }
 Console.WriteLine($"The sum is {sum}");
 ```
+
 ### Arrays, List, and Collections
 ```var``` is used when you are not sure what your variable will be. A ```List``` must be explicitly declared along with the type that will be contained within the list. Lists can be a  ```list<of>``` any types. 
 ```
