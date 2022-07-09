@@ -86,3 +86,7 @@ The ```IndexOf``` method searches for the given parameter value and returns the 
 
 ### Debugging
 A __Break point__ (red dot) will pause the code at a specific point, and allow for further analysis.
+
+### Object Oriented Programming - Objects and Classes
+With Object Oriented Programming (OOP), we can classify objects with various attributes.
+
