@@ -6,8 +6,8 @@
 ### Hello World
 What is a __console__? Whatever is in the quotations will return to the console.
 Strings must be explicitly declared.
-```string aFriend = "Tyler";
-Console.WriteLine($"Hello  + {aFriend}");```
+```string aFriend = "Tyler";```
+```Console.WriteLine($"Hello  + {aFriend}");```
 
 ### The Basics of Strings
 What is a string?
