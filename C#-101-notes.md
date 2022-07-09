@@ -12,6 +12,6 @@ Strings must be explicitly declared.
 
 ### The Basics of Strings
 What is a __string__? A series of characters that can be declared. Stored within an array.
-The __Length__ property shows how long the string is.
+The ```Length``` property shows how long the string is.
 
-The __Trim, TrimStart and TrimEnd__ methods remove leading and trailing spaces. (Better Formatting)
+The ```Trim```, ```TrimStart``` and ```TrimEnd``` methods remove leading and trailing spaces. (Better Formatting)
