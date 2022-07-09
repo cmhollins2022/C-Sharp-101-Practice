@@ -78,3 +78,4 @@ foreach (var name in names)
   Console.WriteLine($"Hello {name.ToUpper()}!");
 }
 ```
+Arrays are usually '0' based, starting at the [0] position.
