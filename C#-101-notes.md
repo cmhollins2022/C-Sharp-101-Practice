@@ -70,6 +70,4 @@ for(int i = 1; i <= 20; i++)
 Console.WriteLine($"The sum is {sum}");
 ```
 ### Arrays, List, and Collections
-```var``` is used when you are not sure what your variable will be.
-
-A ```List``` must be explicitly declared along with the type that will be contained within the list.
+```var``` is used when you are not sure what your variable will be. A ```List``` must be explicitly declared along with the type that will be contained within the list.
