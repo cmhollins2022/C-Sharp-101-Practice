@@ -54,3 +54,18 @@ for(int counter = 0; counter < 10; counter++)
   Console.WriteLine($"Hello World! The counter is {counter}");
 }
 ```
+
+### Combining Branches and Loops
+Proper __scoping__ allows for variables to be declared and assigned in the correct order.
+```
+int sum = 0;
+for(int i = 1; i <= 20; i++)
+
+{
+    if(i % 3 == 0)
+    {
+        sum = sum + i;
+    }
+}
+Console.WriteLine($"The sum is {sum}");
+```
