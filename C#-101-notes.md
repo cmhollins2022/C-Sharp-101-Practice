@@ -71,3 +71,10 @@ Console.WriteLine($"The sum is {sum}");
 ```
 ### Arrays, List, and Collections
 ```var``` is used when you are not sure what your variable will be. A ```List``` must be explicitly declared along with the type that will be contained within the list.
+```
+var names = new List<string> { "<name>", "Ana", "Felipe" };
+foreach (var name in names)
+{
+  Console.WriteLine($"Hello {name.ToUpper()}!");
+}
+```
