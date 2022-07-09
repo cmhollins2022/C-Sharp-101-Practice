@@ -34,7 +34,10 @@ A ```Double``` numeric type represents a double-precision floating point number.
 The ```decimal``` type has a smaller range but greater precision than ```double```. There is also ```long```'s and ```short```'s that assist with being precise. An ```int``` will be enough in most cases though.
 
 ### Branches (if)
-```if``` this, then something will happen. This conditional is a form of a ```bool```, which can also be explicitly declared to determine if something is ```True``` or ```False```. If one side of the answer is true ```&&``` the next side of the answer is true, then the console will return True. However, if one side of the answer is true ```||``` (or) the other side of the answer is true, then the console will also return True.
+```if``` this, then something will happen. This conditional is a form of a ```bool```, which can also be explicitly declared to determine if something is ```true``` or ```false```. If one side of the answer is true ```&&``` the next side of the answer is true, then the console will return True. However, if one side of the answer is true ```||``` (or) the other side of the answer is true, then the console will also return True.
 
 ### Hello world explained
 ```using``` includes any libraries you use, including "System", for the console log. ```namespace```'s are used to group and organize code. Group multuple different classes together to keep everything organized. ```Class``` declared a class, and ```static void Main(string[] args)``` is your first (or main) method.
+
+### What are loops?
+Loops help us to repeat statements. ```while``` something is ```true```, it will repeat.
