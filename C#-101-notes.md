@@ -83,3 +83,6 @@ Arrays are usually '0' based, starting at the ```[0]```'th position.
 
 ### Sort, Search, and Index Lists
 The ```IndexOf``` method searches for the given parameter value and returns the index. The ```Sort``` method sorts the items within a list normally. Each character of a string (or ```char```) have numerical values. So, when they are sorted, the computer knows to sort them alphabetically.
+
+### Debugging
+A __Break point__ will stop the code at a specific point, and
