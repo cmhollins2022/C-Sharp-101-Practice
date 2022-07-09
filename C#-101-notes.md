@@ -82,4 +82,4 @@ foreach (var name in names)
 Arrays are usually '0' based, starting at the ```[0]```'th position.
 
 ### Sort, Search, and Index Lists
-Each character of a string (or ```char```) have numerical values. So, when they are sorted, the computer knows to sort them alphabetically. The ```IndexOf``` method searches for the parameter given and returns the index.
+Each character of a string (or ```char```) have numerical values. So, when they are sorted, the computer knows to sort them alphabetically. The ```IndexOf``` method searches for the given parameter value and returns the index.
