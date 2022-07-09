@@ -88,5 +88,6 @@ The ```IndexOf``` method searches for the given parameter value and returns the 
 A __Break point__ (red dot) will pause the code at a specific point, and allow for further analysis.
 
 ### Object Oriented Programming - Objects and Classes
-With Object Oriented Programming (OOP), we can classify objects with various attributes. We can make a ```class```, along with ```public``` or ```private``` strings.
+With Object Oriented Programming (OOP), we can classify objects with various attributes. We can make a ```class```, along with ```public``` or ```private``` attributes. Again, it is necessary to explicitly declare the variable type.
 
+We can make a class, and we can make one file per class.
