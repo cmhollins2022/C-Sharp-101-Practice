@@ -1,4 +1,4 @@
-# C#-101-notes
+# C#-101-Notes
 ### Why C#?
 - Very versatile.
 - A nice syntax.
