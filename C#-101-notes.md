@@ -90,4 +90,4 @@ A __Break point__ (red dot) will pause the code at a specific point, and allow f
 ### Object Oriented Programming - Objects and Classes
 With Object Oriented Programming (OOP), we can classify objects with various attributes. We can make a ```class```, along with ```public``` or ```private``` attributes. Again, it is necessary to explicitly declare the variable type.
 
-We can make a class, and it is good practice to make one file per class. *"If the code reads like a haiku, then you've done it correctly."* Utilize ```try``` and ```catch``` testing to test various scenarios and throw different ```Exceptions```.
+We can make a class, and it is good practice to make one file per class. *"If the code reads like a haiku, then you've done it correctly."* Utilize ```try``` and ```catch``` testing to test various scenarios and throw different ```Exceptions```. Utilize the ```StringBuilder``` class  when many strings are necessary.
